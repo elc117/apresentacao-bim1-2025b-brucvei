@@ -20,14 +20,17 @@ estrutura dispensa as funções de manipulação de listas como filter, map e la
 1) Usando list comprehension, gere uma lista com os quadrados dos números de 1 a 10.
    Exemplo de saída esperada:
    [1,4,9,16,25,36,49,64,81,100]
+   ![Exercício 01](ex01.gif)
 
 2) Crie uma list comprehension que retorne todos os pares (x, y) em que x varia de 1 a 5 e y varia de 1 a 5, mas apenas quando x + y for par.
    Exemplo de saída esperada:
    [(1,1),(1,3),(1,5),(2,2),(2,4),(3,1),(3,3),(3,5),(4,2),(4,4),(5,1),(5,3),(5,5)]
+   ![Exercício 02](ex02.gif)
 
 3) Usando list comprehension, crie uma lista com todos os números primos entre 1 e 100.
    Exemplo de saída esperada (parcial):
    [2,3,5,7,11,13,17,19,23,29,31, ... , 97]
+   ![Exercício 03](ex03.gif)
 
 ## List Comprehensions em outras linguagens
 
